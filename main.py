@@ -8,7 +8,7 @@ import re
 """
 
 # 注册插件
-@register(name="RemoveBrackets", description="移除消息中的所有全角半角括号及其内容", version="0.4", author="the-lazy-me")
+@register(name="RemoveBrackets", description="移除消息中的所有全角半角括号及其内容", version="0.1", author="awslYui")
 class RemoveBracketsPlugin(BasePlugin):
 
     # 插件加载时触发
