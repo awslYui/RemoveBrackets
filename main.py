@@ -3,7 +3,7 @@ from pkg.plugin.events import *  # 导入事件类
 import re
 
 """
-！本人完全不懂编程，使用Gemini改写自Removethink插件！
+！本人完全不懂编程，本插件使用Gemini改写自Removethink插件！
 收到消息时，移除消息中的所有全角半角括号及其内容
 """
 
