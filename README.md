@@ -1,5 +1,5 @@
-# RemoveThink
-一个用于去除deepseek r1模型回复中的<think>标签及其内容
+# RemoveBrackets
+一个用于去除回复中的全角半角括号及其内容
 <!--
 ## 插件开发者详阅
 
@@ -33,7 +33,7 @@
 配置完成 [LangBot](https://github.com/RockChinQ/LangBot) 主程序后使用管理员账号向机器人发送命令即可安装：
 
 ```
-!plugin get https://github.com/the-lazy-me/RemoveThink
+!plugin get https://github.com/awslYui/RemoveBrackets
 ```
 或查看详细的[插件安装说明](https://docs.langbot.app/plugin/plugin-intro.html#%E6%8F%92%E4%BB%B6%E7%94%A8%E6%B3%95)
 
